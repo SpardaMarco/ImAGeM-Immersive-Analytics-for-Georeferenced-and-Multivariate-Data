@@ -1,5 +1,5 @@
 # ImAGeM-Immersive-Analytics-for-Georeferenced-and-Multivariate-Data
-This repositoy will be filled with the code used after accepted for publishing.
+This repository will be filled with the code used after accepted for publishing.
 ## Installation
 
 
